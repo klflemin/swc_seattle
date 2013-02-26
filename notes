@@ -4,3 +4,10 @@ commit
 make new change to file
 commit
 push to github repository
+
+commands: for new file "notes"
+ git add notes 
+ git commit -m "notes"
+ git log
+ git remote add origin https://github.com/klflemin/swc_seattle.git
+ git push -u origin master
