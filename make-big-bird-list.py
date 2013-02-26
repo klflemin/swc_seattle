@@ -1,3 +1,5 @@
+#author Kelly Fleming
+#date 2/26/2013
 import random, datetime
 import csv
 
